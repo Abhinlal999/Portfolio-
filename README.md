@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Your Name - Portfolio</title>
+    <title>Abhinlal - Portfolio</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
